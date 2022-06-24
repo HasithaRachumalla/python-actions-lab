@@ -14,7 +14,7 @@ This lab demonstrates how to:
 
 1. Service principal granting contributor access to an Azure subscription or resource group. You will be provided with these details if this lab is part of a coached session. 
 
-2. A fork of this repository - Use the fork button located in the top right of this page. Ensure the owner is set to your GitHub username, the repository name can be left as is. 
+2. A fork of this repository - Use the fork button located in the top right of this page. Ensure the owner is set to your GitHub username, the repository name can be left as is. A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
 
 ![alt text](/images/fork_button.jpg "Fork Button")
 
